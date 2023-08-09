@@ -1,5 +1,5 @@
 ## Business Understanding
-The goal of this project is to use the Boston Airbnb data to answer the following business question: What are the most important features to estimate Airbnb rental price?1
+The goal of this project is to use the Boston Airbnb data to answer the following business question: What are the most important features to estimate Airbnb rental price?
 
 ## Data Understanding 
 The Boston dataset has 3585 rows and 95 columns, containing information about the listings, hosts, reviews, availability, and location.
