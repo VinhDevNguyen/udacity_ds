@@ -1,6 +1,16 @@
+# Installation
+You need python 3.8 or above
+After install python, you need to install libraries in requirements.txt
+```bash
+pip install -r requirements.txt
+```
+# Project motivation
+For this project, I was interestested in using Boston Airbnb data to better understand: What are the most important features to estimate Airbnb rental price?
+
+# CRISP-DM Process
 Read the blog here: https://medium.com/@vinh2000ld14/predict-airbnb-rental-price-in-boston-a414985fa9cc
 ## Business Understanding
-The goal of this project is to use the Boston Airbnb data to answer the following business question: What are the most important features to estimate Airbnb rental price?1
+The goal of this project is to use the Boston Airbnb data to answer the following business question: What are the most important features to estimate Airbnb rental price?
 
 ## Data Understanding 
 The Boston dataset has 3585 rows and 95 columns, containing information about the listings, hosts, reviews, availability, and location.
