@@ -1,3 +1,14 @@
+# Installation
+You need python 3.8 or above
+After install python, you need to install libraries in requirements.txt
+```bash
+pip install -r requirements.txt
+```
+# Project motivation
+For this project, I was interestested in using Boston Airbnb data to better understand: What are the most important features to estimate Airbnb rental price?
+
+
+# CRISP-DM Process
 ## Business Understanding
 The goal of this project is to use the Boston Airbnb data to answer the following business question: What are the most important features to estimate Airbnb rental price?
 
